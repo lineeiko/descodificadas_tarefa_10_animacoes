@@ -1,0 +1,41 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #e3b6e7;
+
+}
+
+h1{
+    font-size: 3em;
+    color: rgb(177, 14, 163);
+    margin-bottom: 20px;
+}
+
+p{
+    font-size: 2em;
+    color: rgb(177, 14, 163);
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#heart{
+    width: 300px;
+    height: auto;
+    animation: beat 1s infinite;
+    }
+
+@keyframes beat {
+    0%{
+        transform: scale(1);
+    }
+    50%{
+        transform: scale(1.2);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
