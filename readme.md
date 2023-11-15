@@ -2,7 +2,7 @@
 
 > Tarefa 10 sobre animações
 
-Projeto contendo uma imagem com animação.
+Projeto contendo uma imagem de coração pulsando,batendo.
 
 [🔗 Clique aqui para acessar] (https://lineeiko.github.io/descodificadas_tarefa_10_animacoes/)
 
